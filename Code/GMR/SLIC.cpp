@@ -5,8 +5,7 @@
 // Email: firstname.lastname@epfl.ch
 //////////////////////////////////////////////////////////////////////
 #include "stdafx.h"
-#include <cfloat>
-#include <cmath>
+
 #include <iostream>
 #include <fstream>
 #include "SLIC.h"
